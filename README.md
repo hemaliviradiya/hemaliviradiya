@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<h1 align="center">Welcome to the Board of,<br>Devanshi Akbari</h1>
+<h1 align="center">Welcome to the Board of,<br>Hemali Viradiya</h1>
 
 ###
 
@@ -164,7 +164,7 @@
 <h3 align="left"> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
 
 
-To see all the other badges are [here](https://www.credly.com/users/devanshi-akbari/badges)
+To see all the other badges are [here](https://www.credly.com/users/hemali-viradiya/badges)
 
 <!--START_SECTION:badges-->
 
