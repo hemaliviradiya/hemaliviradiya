@@ -4,10 +4,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devanshiakbari/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemali-viradiya-304485250/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/22240162/the-d-akbari" target="_blank">
+  <a href="https://stackoverflow.com/users/22243476/hemali-viradiya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="65" height="45" alt="stackoverflow logo"  />
   </a>
   <a href="https://twitter.com/the_d_Akabri" target="_blank">
@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/the_d_akbari/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="45" alt="instagram logo"  />
   </a>
-  <a href="diya0904ak@gmail.com" target="_blank">
+  <a href="hemaliviradiya77@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"  />
   </a>
   <a href="diya0904ak@outlook.com" target="_blank">
