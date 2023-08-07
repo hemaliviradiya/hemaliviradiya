@@ -10,16 +10,16 @@
   <a href="https://stackoverflow.com/users/22243476/hemali-viradiya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="65" height="45" alt="stackoverflow logo"  />
   </a>
-  <a href="https://twitter.com/the_d_Akabri" target="_blank">
+  <a href="https://twitter.com/HemaliViradiya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="45" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/the_d_akbari/" target="_blank">
+  <a href="https://www.instagram.com/_hemali_viradiya/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="45" alt="instagram logo"  />
   </a>
   <a href="hemaliviradiya77@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"  />
   </a>
-  <a href="diya0904ak@outlook.com" target="_blank">
+  <a href="hemaliv@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="65" height="45" alt="microsoft-outlook logo"  />
   </a>
 </div>
@@ -44,7 +44,7 @@
 
 ###
 
-<h6 align="left">- Pursing master's degree in M.Sc. I.C.T. from VNSGU<br><br>- JPDICT'24 | VNSGU.<br>- BCA'23 | VNSGU.<br><br>- 🔭 I’m currently master student<br>- 📚 I'm currently learning ASP.NET | iOS | MVC CORE | .NET <br>- ⚡ In my free time I used to learn something new and try to apply it and learn from my mistakes to understand it</h6>
+<h6 align="left">- Pursing master's degree in M.Sc. I.C.T. from VNSGU<br><br>- JPDICT'24 | VNSGU.<br>- BCA'23 | VNSGU.<br><br>- 🔭 I’m currently master student<br>- 📚 I'm currently learning ASP.NET | NODEJS | PYTHON | PHP | MVC CORE | .NET <br>- ⚡ In my free time I used to learn something new and try to apply it and learn from my mistakes to understand it</h6>
 
 ###
 
